@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.5" height="27.5" viewBox="0 0 27.5 27.5">
+  <g id="day-night-sun-moon-cycle-svgrepo-com" transform="translate(-2.25 -2.25)">
+    <line id="Line_1" data-name="Line 1" y2="26" transform="translate(16 3)" fill="none" stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_3" data-name="Path 3" d="M16,23A7,7,0,0,1,16,9" fill="none" stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_2" data-name="Line 2" x2="2.12" y2="2.12" transform="translate(6.81 6.81)" fill="none" stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_3" data-name="Line 3" x2="3" transform="translate(3 16)" fill="none" stroke="##BFBFBF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_4" data-name="Line 4" y1="2.12" x2="2.12" transform="translate(6.81 23.07)" fill="none" stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_4" data-name="Path 4" d="M16,12.55A6.992,6.992,0,0,1,22.09,9c.16,0,.31.01.47.02A5.246,5.246,0,1,0,29,17.06a6.993,6.993,0,0,1-13,2.39" fill="none" stroke="#BFBFBF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

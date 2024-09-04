@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>145155576915-rqdvger7h9f4ljtrmt18dr02kd1mfptj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.145155576915-rqdvger7h9f4ljtrmt18dr02kd1mfptj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAofUANY0yp5cPAXuI35KIV0JFSP97r6Iw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145155576915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ar.pickup-rider</string>
+	<key>PROJECT_ID</key>
+	<string>pickup-8b31d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pickup-8b31d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145155576915:ios:05ee13271e9a7eb98862a6</string>
+</dict>
+</plist>

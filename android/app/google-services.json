@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "145155576915",
+    "project_id": "pickup-8b31d",
+    "storage_bucket": "pickup-8b31d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145155576915:android:283db463e508fc9f8862a6",
+        "android_client_info": {
+          "package_name": "com.ar.pickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZN13Tq5q6lrsnz2l8GIymFQd1OJsYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145155576915-ae4u1oi50kdtuppdqbcvaqauun4le5nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.pickup-parent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145155576915:android:5adcedade4a7d7888862a6",
+        "android_client_info": {
+          "package_name": "com.ar.pickup_parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZN13Tq5q6lrsnz2l8GIymFQd1OJsYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145155576915-ae4u1oi50kdtuppdqbcvaqauun4le5nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.pickup-parent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145155576915:android:9d254be75f4c20818862a6",
+        "android_client_info": {
+          "package_name": "com.papne.communityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZN13Tq5q6lrsnz2l8GIymFQd1OJsYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145155576915-ae4u1oi50kdtuppdqbcvaqauun4le5nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.pickup-parent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145155576915:android:e61835ef5a4004f18862a6",
+        "android_client_info": {
+          "package_name": "com.papne.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZN13Tq5q6lrsnz2l8GIymFQd1OJsYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145155576915-9546gj6lvodvvakg7vbqcij4smt05jtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145155576915-ae4u1oi50kdtuppdqbcvaqauun4le5nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ar.pickup-parent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
