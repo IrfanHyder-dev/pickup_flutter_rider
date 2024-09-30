@@ -9,7 +9,7 @@ class StaticInfo {
   static String? fcmToken;
   static Vehicle? vehicleModel;
   static bool? profileStatus;
-  static String googleApiKey = "AIzaSyC2NBxKnMKxtJ-gQKnWFSzQnH_McwrFS-8";
+  static String googleApiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 
 }
