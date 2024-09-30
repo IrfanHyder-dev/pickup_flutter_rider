@@ -25,7 +25,7 @@
             android:resource="@mipmap/notification_icon" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyALtywJGaRIoFBo1sv3C6NJRmZ80_diz3U" />
+            android:value="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
 
         <service
             android:name="dev.fluttercommunity.plus.androidalarmmanager.AlarmService"

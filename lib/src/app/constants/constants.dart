@@ -14,7 +14,7 @@ const String baseUrl = '$url/api/v1/';
 
 const String userExpired = "Not Authorized";
 
-const String googleMapKey = 'AIzaSyALtywJGaRIoFBo1sv3C6NJRmZ80_diz3U';
+const String googleMapKey = 'xxxxxxxxxxxxxxxxxxxxxxxxx';
 
 const double hMargin = 20;
 const double vMargin = 12;
